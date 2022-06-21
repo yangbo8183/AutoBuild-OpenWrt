@@ -24,32 +24,6 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 
 ##############################################################################################
 
-
-# 状态
-
-# 实时监控 lede包已有
-
-#释放内存 lede包已有
-
-##############################################################################################
-
-#  系统
-
-#定时重启
-#git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
-
-#ttyd lede包已有
-
-#磁盘管理
-#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
-
-#文件传输 lede包已有
-
-#  关机
-git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
-
-##############################################################################################
-
 # 服务
 
 #docker
@@ -78,14 +52,6 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 ##############################################################################################
-
-# NAS
-
-#文件助手
-#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
-##############################################################################################
-
-
 
 # 网络
 
